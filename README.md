@@ -1,3 +1,4 @@
-# display-produts
+# Card Component Design Using React JS | Props - React
+https://www.youtube.com/watch?v=L3YjUUxBWgs
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-rxa7nx)
+![HitCount](https://i.ytimg.com/vi/L3YjUUxBWgs/maxresdefault.jpg)
